@@ -1,0 +1,22 @@
+.input-note {
+  padding: 20px;
+  border: 1px solid #000000;
+  flex-basis: 40%;
+}
+.input-label {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.submit {
+  margin-top: 20px;
+  border: 1px solid #000000;
+  display: inline-block;
+  padding: 20px;
+  cursor: pointer;
+}
+input {
+  height: 40px;
+  width: 100%; 
+  box-sizing: border-box;
+  font-size: 20px;
+}

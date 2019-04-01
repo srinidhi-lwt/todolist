@@ -1,0 +1,6 @@
+.item-list {
+  flex-basis: 20%;
+}
+.remove-item {
+  cursor: pointer;
+}
